@@ -4,7 +4,6 @@
 - We also talk about edits and other stuff we would do differently to recipes on the next iteration and this seems like a convenient way to track changes and updates!
 
 #### Recipe version control thoughts... these might change.
-- I think it would make sense to keep original versions of recipes in the `master` branch.
-- Trial updates to recipes could start out in their own branches and then become merged into "official" update branches where they can live.
+- Trial updates to recipes could start out in their own branches and then become merged into `master` once we've found an update we are happy with.
 
 #### If the "book" starts to fill with recipes and the root folder becomes to unweildy, I might separate recipes out into folders. 
